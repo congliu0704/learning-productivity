@@ -1,10 +1,19 @@
-# Clashing with a Coworker?
+# HBR Guide to Dealing with Conflict
 
-with Amy Gallo, Harvard Business Review, #ManagingConflict
+By Amy Gallo, Harvard Business Review, #ManagingConflict
 
-LearningHubz: https://farfetch.learninghubz.com/video/1d984bea-3585-4795-aef7-e768ad157b44
+## Book
 
-YouTube: https://www.youtube.com/watch?v=XUifJ0eod5c
+HBR Guide to Dealing with Conflict
+Assess the situation
+Manager your emotions
+Move on
+Paperback - HBR Guide Series
+April 4, 2017
+
+## Videos
+
+[Talks at Google](https://www.youtube.com/watch?v=MTOVidv7szY)
 
 ## Steps to Analyze a Conflict
 * Counterpart
