@@ -4,11 +4,13 @@ By Amy Gallo, Harvard Business Review, #ManagingConflict
 
 ## Book
 
-HBR Guide to Dealing with Conflict
-Assess the situation
-Manager your emotions
-Move on
-Paperback - HBR Guide Series
+HBR Guide to Dealing with Conflict<br>
+
+* Assess the situation
+* Manager your emotions
+* Move on
+
+Paperback - HBR Guide Series<br>
 April 4, 2017
 
 ## Videos
